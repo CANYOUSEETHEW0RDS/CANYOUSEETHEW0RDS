@@ -35,6 +35,7 @@
 
 ### **𝓡emember.** 
 When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
+### You can do it!
 
 <br>
 
