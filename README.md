@@ -22,8 +22,8 @@
 
 <br><br>
 
-**hi!! hey!! :3**  
-**welcome to my little corner**
+**Howdyy**  
+**Welcome to my little ark**
 
 <br>
 
@@ -33,7 +33,7 @@
 
 ---
 
-### ⋆ about me ⋆
+### ⋆ ABOUT ME ⋆
 
 just a girl who loves pink,  
 rainy days and being a little silly :3
