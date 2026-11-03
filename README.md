@@ -54,6 +54,14 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 ***‣ Some of those:*** .
 
+</div>
+
+<div align="center">
+
+<img src="./TUMBLR-GIRL.gif" width="380">
+
+<br><br>
+
 <br><br>
 
 ---
