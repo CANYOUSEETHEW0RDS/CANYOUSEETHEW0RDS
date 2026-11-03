@@ -22,8 +22,8 @@
 
 <br><br>
 
-**Howdyy**  
-**Welcome to my little ark**
+**Howdy!**  
+**Please be patient! I’m socially awkward**
 
 <br>
 
@@ -35,8 +35,11 @@
 
 ### ⋆ ABOUT ME ⋆
 
-just a girl who loves pink,  
-rainy days and being a little silly :3
+I like to draw sometimes and binge movies/shows. Mostly horror, tho. :P
+Like these: .
+
+Plus, I know some of games and fandoms.
+Some of those: .
 
 <br>
 
@@ -44,8 +47,8 @@ rainy days and being a little silly :3
 
 <br><br>
 
-**currently:** existing, vibing,  
-and making things prettier
+### **Remember.** 
+When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
 
 <br><br>
 
