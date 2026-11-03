@@ -14,7 +14,7 @@
 
 <br>
 
-# ***⋆｡‧˚ʚ♡ɞ˚‧｡⋆*** <img src="./FEF.jpg" width="58">
+# ***⋆｡‧˚ʚ♡ɞ˚‧｡⋆*** <img src="./FEF.jpg" width="30">
 
 <br>
 
