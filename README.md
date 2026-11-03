@@ -6,7 +6,7 @@
 
 <br><br>
 
-# <img src="./skull.gif" width="45">
+# <img src="./skull.gif" width="100">
 
 <br>
 
