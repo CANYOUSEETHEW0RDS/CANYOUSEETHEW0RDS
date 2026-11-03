@@ -14,7 +14,7 @@
 
 <br>
 
-# ***⋆｡‧˚ʚ♡ɞ˚‧｡⋆*** <img src="./FEF.jpg" width="30">
+# **⋆｡‧˚ʚ♡ɞ˚‧｡⋆**
 
 <br>
 
@@ -35,7 +35,7 @@
 
 ### **𝓡emember.** 
 When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
-### You can do it!
+### You can do it! <img src="./FEF.jpg" width="30">
 
 <br>
 
