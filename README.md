@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="./first.jpg" width="420">
+<img src="./2nd.jpg" width="380">
 
 <br><br>
 
-# <img src="./skull.gif" width="45"> CANYOUSEETHEW0RDS 
+# <img src="./skull.gif" width="45">
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="./2nd.jpg" width="380">
+<img src="./first.jpg" width="420"> 
 
 <br><br>
 
