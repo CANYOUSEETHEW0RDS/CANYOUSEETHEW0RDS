@@ -51,13 +51,17 @@ and making things prettier
 
 ---
 
-### ⋆ some faces ⋆
+### ⋆ :P ⋆
 
-<img src="./CUTE.mp4" width="320">
+<img src="./CUTE.gif" width="320">
 
 <br><br>
 
-<img src="./CUTE2.mp4" width="320">
+<img src="./silly.gif" width="320">
+
+<br><br>
+
+<img src="./silly2.gif" width="320">
 
 <br><br>
 
