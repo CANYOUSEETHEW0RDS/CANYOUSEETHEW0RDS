@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝐇𝐞𝐥𝐥𝐨? 𝐂𝐚𝐧 𝐲𝐨𝐮 𝐡𝐞𝐚𝐫 𝐦𝐞? <img src="./FURBIES.gif" width="40">
+# <img src="./FURBIES.gif" width="40"> 𝐇𝐞𝐥𝐥𝐨? 𝐂𝐚𝐧 𝐲𝐨𝐮 𝐡𝐞𝐚𝐫 𝐦𝐞?
 
 </div>
 
