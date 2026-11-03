@@ -27,7 +27,7 @@
 
 <br>
 
-<img src="./first.jpg" width="420">
+<img src="./silly2.gif" width="320">
 
 <br><br>
 
@@ -62,9 +62,6 @@ Some of those: .
 
 <img src="./silly.gif" width="320">
 
-<br><br>
-
-<img src="./silly2.gif" width="320">
 
 <br><br>
 
