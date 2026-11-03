@@ -54,7 +54,7 @@ Some of those: .
 
 ---
 
-### ⋆ :P ⋆
+### ⋆ ୭🧷✧˚. ᵎᵎ 🎀 ⋆
 
 <img src="./CUTE.gif" width="320">
 
