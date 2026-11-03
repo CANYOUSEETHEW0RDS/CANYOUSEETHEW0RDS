@@ -39,7 +39,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <br>
 
-<img src="./rainy.gif" width="400">
+<img src="./rainy.gif" width="600">
 
 <br><br>
 
