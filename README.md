@@ -6,7 +6,7 @@
 
 <br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" width="35"> CANYOUSEETHEW0RDS
+# <img src="./skull.gif" width="45"> CANYOUSEETHEW0RDS 
 
 <br>
 
