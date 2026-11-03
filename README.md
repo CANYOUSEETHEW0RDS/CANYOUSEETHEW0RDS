@@ -33,13 +33,8 @@
 
 ---
 
-### ⋆ ABOUT ME ⋆
-
-I like to draw sometimes and binge movies/shows. Mostly horror, tho. :P
-Like these: .
-
-Plus, I know some of games and fandoms.
-Some of those: .
+### **Remember.** 
+When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
 
 <br>
 
@@ -47,8 +42,13 @@ Some of those: .
 
 <br><br>
 
-### **Remember.** 
-When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
+### ⋆ ABOUT ME ⋆ 
+
+I like to draw sometimes and binge movies/shows. Mostly horror, tho. :P
+Like these: .
+
+Plus, I know some of games and fandoms.
+Some of those: .
 
 <br><br>
 
