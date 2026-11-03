@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello? Can you hear me?
+# 𝐇𝐞𝐥𝐥𝐨? 𝐂𝐚𝐧 𝐲𝐨𝐮 𝐡𝐞𝐚𝐫 𝐦𝐞?
 
 </div>
 
@@ -22,8 +22,8 @@
 
 <br><br>
 
-**Howdy!**  
-**Please be patient! I’m socially awkward**
+**𝓗owdy!**  
+**𝓟lease be patient! 𝓘’m socially awkward**
 
 <br>
 
@@ -33,7 +33,7 @@
 
 ---
 
-### **Remember.** 
+### **𝓡emember.** 
 When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
 
 <br>
@@ -42,7 +42,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <br><br>
 
-### ⋆ ABOUT ME ⋆ 
+### ⋆ 𝓐BOUT ME ⋆ 
 
 I like to draw sometimes and binge movies/shows. Mostly horror, tho. :P
 Like these: .
