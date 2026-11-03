@@ -61,16 +61,17 @@ Some of those: .
 
 <br><br>
 
-<img src="./silly.gif" width="320">
-
-
-<br><br>
-
 ---
 
 ⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
 thanks for stopping by!!  
 be soft to yourself today  
 ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
+
+<img src="./silly.gif" width="320">
+
+
+<br><br>
+
 
 </div>
