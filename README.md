@@ -4,6 +4,18 @@
 <tr>
 <td width="160" align="center" valign="top">
 <img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
 </td>
 
 <td width="520" align="center">
@@ -92,6 +104,18 @@ be soft to yourself today
 </td>
 
 <td width="160" align="center" valign="top">
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<br>
 <img src="./SEE-THE-RAIN-WORDS.png" width="150">
 </td>
 </tr>
