@@ -106,7 +106,25 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 ### ⋆ ୭🧷✧˚. ᵎᵎ 🎀 ⋆
 
+<table>
+<tr>
+<td width="150" align="center" valign="top">
+<img src="./ADORABLE.jpg" width="140">
+<br>
+<img src="./ADORABLE.jpg" width="140">
+</td>
+<td width="520" align="center">
+
 <img src="./CUTE.gif" width="280">
+
+</td>
+<td width="150" align="center" valign="top">
+<img src="./ADORABLE.jpg" width="140">
+<br>
+<img src="./ADORABLE.jpg" width="140">
+</td>
+</tr>
+</table>
 
 <br><br>
 
