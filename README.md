@@ -20,9 +20,7 @@
 <br><br>
 
 <br>
-
 ***⋆｡‧˚ʚ♡ɞ˚‧｡⋆***
-
 <br>
 
 <table>
@@ -41,7 +39,7 @@
 <br>
 
 # <img src="./skull.gif" width="90">
-<br><br>
+<br>
 <img src="./silly2.gif" width="340"> 
 
 <br><br>
