@@ -102,7 +102,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 **Plus, I know some of games and fandoms.**
 <br><br>
-***‣ Some of those:*** Skullgirls, Hotline Miami, Yuppie Psycho, Psychopomp, Dispatch, Detroit: Become Human, Mouthwashing, Cry Of Fear, Homestuck, The Binding Of Isaac, Night In The Woods, Sally Face, Splatoon, Persona5, Dead By Daylight, IdentityV, Buckshot Roulette. AMNESIA(all series) ; OUTLAST(all series)
+***‣ Some of those:*** Skullgirls, Hotline Miami, Yuppie Psycho, Psychopomp, Dispatch, Detroit: Become Human, Mouthwashing, Cry Of Fear, Homestuck, The Binding Of Isaac, Night In The Woods, Sally Face, Splatoon, Persona5, Dead By Daylight, IdentityV, Buckshot Roulette. AMNESIA(all series) ; OUTLAST(all series)...
 <img src="./SPLATOON.png" width="360">
 <br><br>
 <br><br>
