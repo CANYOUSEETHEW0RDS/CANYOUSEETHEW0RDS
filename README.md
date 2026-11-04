@@ -113,12 +113,12 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <br><br>
 
-<img src="./TUMBLR-GIRL.jpg" width="360">
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 <img src="./SPLATOON.png" width="360">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="./TUMBLR-GIRL.jpg" width="360">
 
 </td>
 <td width="150" align="center" valign="top">
