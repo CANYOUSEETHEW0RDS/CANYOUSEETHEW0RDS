@@ -51,7 +51,6 @@
 **𝓟lease be patient! 𝓘’m socially awkward.**
 
 <br><br>
-
 <img src="./3rd.jpg" width="300">
 
 </td>
