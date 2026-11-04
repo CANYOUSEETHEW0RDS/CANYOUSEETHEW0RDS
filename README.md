@@ -48,7 +48,7 @@
 <br><br>
 
 **𝓗owdy!**  
-**𝓟lease be patient! 𝓘’m socially awkward**
+**𝓟lease be patient! 𝓘’m socially awkward.**
 
 <br><br>
 
@@ -91,7 +91,7 @@
 ### **𝓡emember.** 
 When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
 
-### You can do it! 
+### 𝓨ou can do it! 
 
 <br>
 
@@ -172,8 +172,8 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <td width="520" align="center">
 
 ⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
-***Thank you for visiting my profile.
-Take care yourself.<3***
+***𝓣hank you for visiting my profile.
+𝓣ake care yourself.<3***
 
 ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
 
