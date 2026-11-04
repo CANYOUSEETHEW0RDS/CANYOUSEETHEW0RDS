@@ -98,7 +98,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <br><br>
 
-***‣ Like these:*** Marble Hornets ; TribeTwelve ; everymanHYBRID ; MLAndersen0 ; DarkHarvest00. HIIMMARYMARY, The Mandela Catalogue, Doctor Nowhere, UrbanSPOOK, Don't Hug Me I'm Scared, Spooky Month. Bojack Horseman, Moral Orel, Happy Tree Friends, South Park. SAW(2003-2023), Possibly In Michigan(1983), Pearl(2022), Obsession(2025), Backrooms(2026), Edward Scissorhands(1990), American Psycho(2000) Terrifier(2016), Ringu(1998), Marie Antoinette(2003), KillBill(2003). Paprika(2006), Perfect Blue(1998), Panty & Stocking with Garterbelt(2010), Junji Ito Collection(2018), Aggretsuko(2018)...
+***‣ Like these:*** Marble Hornets ; TribeTwelve ; everymanHYBRID ; MLAndersen0 ; DarkHarvest00. HIIMMARYMARY, The Mandela Catalogue, Doctor Nowhere, UrbanSPOOK, Don't Hug Me I'm Scared, Spooky Month. Bojack Horseman, Moral Orel, Happy Tree Friends, South Park. SAW(2003-2023), Possibly In Michigan(1983), Pearl(2022), Hellraiser(1987), Obsession(2025), Backrooms(2026), Edward Scissorhands(1990), American Psycho(2000) Terrifier(2016), Ringu(1998), Marie Antoinette(2003), KillBill(2003). Paprika(2006), Perfect Blue(1998), Panty & Stocking with Garterbelt(2010), Junji Ito Collection(2018), Aggretsuko(2018)...
 
 **Plus, I know some of games and fandoms.**
 <br><br>
