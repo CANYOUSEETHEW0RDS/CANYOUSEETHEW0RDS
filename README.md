@@ -32,7 +32,9 @@
 
 <table>
 <tr>
-<td width="150" align="center">
+<td width="150" align="center" valign="top">
+<img src="./ADORABLE.jpg" width="140">
+<br>
 <img src="./ADORABLE.jpg" width="140">
 </td>
 <td width="520" align="center">
@@ -44,16 +46,18 @@
 **𝓗owdy!**  
 **𝓟lease be patient! 𝓘’m socially awkward**
 
+<br><br>
+
+<img src="./silly2.gif" width="300">
+
 </td>
-<td width="150" align="center">
+<td width="150" align="center" valign="top">
+<img src="./ADORABLE.jpg" width="140">
+<br>
 <img src="./ADORABLE.jpg" width="140">
 </td>
 </tr>
 </table>
-
-<br>
-
-<img src="./silly2.gif" width="300">
 
 <br><br>
 
