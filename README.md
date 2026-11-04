@@ -81,6 +81,10 @@
 <img src="./PRETTY-BOOKWORM.jpg" width="140">
 <br>
 <img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
 </td>
 <td width="520" align="center">
 
@@ -115,6 +119,10 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 </td>
 <td width="150" align="center" valign="top">
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
 <img src="./PRETTY-BOOKWORM.jpg" width="140">
 <br>
 <img src="./PRETTY-BOOKWORM.jpg" width="140">
