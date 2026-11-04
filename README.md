@@ -69,7 +69,20 @@
 
 <br><br>
 
----
+<table>
+<tr>
+<td width="150" align="center" valign="top">
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+</td>
+<td width="520" align="center">
 
 ### **𝓡emember.** 
 When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
@@ -99,6 +112,21 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <br><br>
 
 <img src="./TUMBLR-GIRL.jpg" width="360">
+
+</td>
+<td width="150" align="center" valign="top">
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<br>
+<img src="./PRETTY-BOOKWORM.jpg" width="140">
+</td>
+</tr>
+</table>
 
 <br><br>
 
