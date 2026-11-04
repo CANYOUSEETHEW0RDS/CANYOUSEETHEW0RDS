@@ -19,12 +19,10 @@
 
 <br><br>
 
-# <img src="./skull.gif" width="90">
-
 <br>
 
 ***⋆｡‧˚ʚ♡ɞ˚‧｡⋆***
-
+# <img src="./skull.gif" width="90">
 <br>
 
 <table>
