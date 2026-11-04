@@ -36,8 +36,7 @@
 </td>
 <td width="520" align="center">
 
-<br>
-
+  
 # <img src="./skull.gif" width="90">
 <br>
 <img src="./silly2.gif" width="340"> 
