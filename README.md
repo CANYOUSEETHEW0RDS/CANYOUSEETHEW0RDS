@@ -30,12 +30,26 @@
 
 <br>
 
+<table>
+<tr>
+<td width="150" align="center">
+<img src="./ADORABLE.jpg" width="140">
+</td>
+<td width="520" align="center">
+
 <img src="./3rd.jpg" width="280">
 
 <br><br>
 
 **𝓗owdy!**  
 **𝓟lease be patient! 𝓘’m socially awkward**
+
+</td>
+<td width="150" align="center">
+<img src="./ADORABLE.jpg" width="140">
+</td>
+</tr>
+</table>
 
 <br>
 
