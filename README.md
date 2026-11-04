@@ -8,7 +8,7 @@
 <td width="520" align="center">
 
 # <img src="./FLOWER.gif" width="40"> 𝐇𝐞𝐥𝐥𝐨? 𝐂𝐚𝐧 𝐲𝐨𝐮 𝐡𝐞𝐚𝐫 𝐦𝐞?
-# <img src="./2nd.jpg" width="380">
+# <img src="./2nd.jpg" width="200">
 
 </td>
 <td width="150" align="center">
