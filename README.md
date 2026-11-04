@@ -175,7 +175,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 ***𝓣hank you for visiting my profile.
 𝓣ake care yourself.<3***
 
-⋆｡‧˚ʚ♡ɞ˚‧｡⋆
+⋆｡‧˚———˚‧｡⋆
 
 <br>
 
