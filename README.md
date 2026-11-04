@@ -18,11 +18,25 @@
 
 <br>
 
+<table>
+<tr>
+<td width="150" align="center" valign="top">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+</td>
+<td width="520" align="center">
+
 <img src="./2nd.jpg" width="380">
 
 <br><br>
 
 # <img src="./skull.gif" width="90">
+
+</td>
+<td width="150" align="center" valign="top">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+</td>
+</tr>
+</table>
 
 <br>
 
