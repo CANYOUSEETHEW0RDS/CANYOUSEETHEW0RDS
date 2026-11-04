@@ -43,7 +43,7 @@
 </td>
 <td width="520" align="center">
 
-<img src="./3rd.jpg" width="280">
+<img src="./silly2.gif" width="300"> 
 
 <br><br>
 
@@ -52,7 +52,7 @@
 
 <br><br>
 
-<img src="./silly2.gif" width="300">
+<img src="./3rd.jpg" width="280">
 
 </td>
 <td width="150" align="center" valign="top">
