@@ -2,23 +2,27 @@
 
 <table>
 <tr>
-<td width="160" align="center" valign="top">
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<td width="150" align="center" valign="top">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 </td>
 
-<td width="520" align="center">
+<td width="540" align="center">
 
 # <img src="./FLOWER.gif" width="40"> 𝐇𝐞𝐥𝐥𝐨? 𝐂𝐚𝐧 𝐲𝐨𝐮 𝐡𝐞𝐚𝐫 𝐦𝐞?
 
@@ -103,20 +107,24 @@ be soft to yourself today
 
 </td>
 
-<td width="160" align="center" valign="top">
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<td width="150" align="center" valign="top">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 <br>
-<img src="./SEE-THE-RAIN-WORDS.png" width="150">
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+<br>
+<img src="./SEE-THE-RAIN-WORDS.png" width="140">
 </td>
 </tr>
 </table>
