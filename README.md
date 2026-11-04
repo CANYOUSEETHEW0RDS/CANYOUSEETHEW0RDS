@@ -172,8 +172,8 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <td width="520" align="center">
 
 ⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
-thanks for stopping by!!  
-be soft to yourself today  
+Thank you for visiting my profile.
+Take care yourself.<3
 ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
 
 <br>
