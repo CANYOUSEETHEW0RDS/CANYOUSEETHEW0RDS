@@ -98,50 +98,6 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <br><br>
 
----
-
-### ⋆ ୭🧷✧˚. ᵎᵎ 🎀 ⋆
-
-<table>
-<tr>
-<td width="170" align="center" valign="top">
-<img src="./ADORABLE.jpg" width="160">
-<br>
-<img src="./ADORABLE.jpg" width="160">
-<br>
-<img src="./ADORABLE.jpg" width="160">
-<br>
-<img src="./ADORABLE.jpg" width="160">
-</td>
-<td width="500" align="center">
-
-<img src="./CUTE.gif" width="280">
-
-<br><br>
-
-<img src="./PINK TUMBLR.gif" width="320">
-
-<br><br>
-
-# Link, link.
-
-*(link for my tumblr)*
-
-</td>
-<td width="170" align="center" valign="top">
-<img src="./ADORABLE.jpg" width="160">
-<br>
-<img src="./ADORABLE.jpg" width="160">
-<br>
-<img src="./ADORABLE.jpg" width="160">
-<br>
-<img src="./ADORABLE.jpg" width="160">
-</td>
-</tr>
-</table>
-
-<br><br>
-
 <table>
 <tr>
 <td width="170" align="center">
