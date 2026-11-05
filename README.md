@@ -33,18 +33,16 @@
 </td>
 <td width="520" align="center">
 
-# <img src="./skull.gif" width="90">
+<img src="./skull.gif" width="90">
 
 <br>
 
 **𝓗owdy!**  
 **𝓟lease be patient! 𝓘’m socially awkward.**
-<br><br>
+
+<br>
+
 <img src="./silly2.gif" width="340">
-
-<br><br>
-
-<img src="./3rd.jpg" width="300">
 
 </td>
 <td width="150" align="center" valign="top">
