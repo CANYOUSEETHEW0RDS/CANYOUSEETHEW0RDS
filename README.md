@@ -2,10 +2,10 @@
 
 <table>
 <tr>
-<td width="150" align="center">
-<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+<td width="170" align="center">
+<img src="./SEE-THE-RAIN-WORDS.png" width="160">
 </td>
-<td width="520" align="center">
+<td width="500" align="center">
 
 # <img src="./FLOWER.gif" width="40"> 𝐇𝐞𝐥𝐥𝐨? 𝐂𝐚𝐧 𝐲𝐨𝐮 𝐡𝐞𝐚𝐫 𝐦𝐞?
 
@@ -19,8 +19,8 @@
 ***⋆｡‧˚ʚ♡ɞ˚‧｡⋆***
 
 </td>
-<td width="150" align="center">
-<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+<td width="170" align="center">
+<img src="./SEE-THE-RAIN-WORDS.png" width="160">
 </td>
 </tr>
 </table>
@@ -29,22 +29,22 @@
 
 <table>
 <tr>
-<td width="150" align="center" valign="top">
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<td width="170" align="center" valign="top">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 </td>
-<td width="520" align="center">
+<td width="500" align="center">
 
 ### **𝓡emember.** 
 When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
@@ -78,20 +78,20 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <img src="./TUMBLR-GIRL.jpg" width="460">
 
 </td>
-<td width="150" align="center" valign="top">
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<td width="170" align="center" valign="top">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 <br>
-<img src="./PRETTY-BOOKWORM.jpg" width="140">
+<img src="./PRETTY-BOOKWORM.jpg" width="160">
 </td>
 </tr>
 </table>
@@ -104,20 +104,20 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <table>
 <tr>
-<td width="150" align="center" valign="top">
-<img src="./ADORABLE.jpg" width="140">
+<td width="170" align="center" valign="top">
+<img src="./ADORABLE.jpg" width="160">
 <br>
-<img src="./ADORABLE.jpg" width="140">
+<img src="./ADORABLE.jpg" width="160">
 </td>
-<td width="520" align="center">
+<td width="500" align="center">
 
 <img src="./CUTE.gif" width="280">
 
 </td>
-<td width="150" align="center" valign="top">
-<img src="./ADORABLE.jpg" width="140">
+<td width="170" align="center" valign="top">
+<img src="./ADORABLE.jpg" width="160">
 <br>
-<img src="./ADORABLE.jpg" width="140">
+<img src="./ADORABLE.jpg" width="160">
 </td>
 </tr>
 </table>
@@ -126,16 +126,12 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <table>
 <tr>
-<td width="150" align="center">
-<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+<td width="170" align="center">
+<img src="./SEE-THE-RAIN-WORDS.png" width="160">
 </td>
-<td width="520" align="center">
+<td width="500" align="center">
 
-<img src="./skull.gif" width="70">
-
-<br>
-
-⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
+### <img src="./skull.gif" width="45"> ⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
 ***𝓣hank you for visiting my profile.  
 𝓣ake care yourself.<3***  
 ⋆｡‧˚———˚‧｡⋆
@@ -145,8 +141,8 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <img src="./silly.gif" width="280">
 
 </td>
-<td width="150" align="center">
-<img src="./SEE-THE-RAIN-WORDS.png" width="140">
+<td width="170" align="center">
+<img src="./SEE-THE-RAIN-WORDS.png" width="160">
 </td>
 </tr>
 </table>
