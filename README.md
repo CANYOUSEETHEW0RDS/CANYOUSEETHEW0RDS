@@ -30,7 +30,6 @@
 <img src="./ADORABLE.jpg" width="140">
 </td>
 <td width="520" align="center">
-
 <img src="./skull.gif" width="80">
 
 **𝓗owdy!**  
