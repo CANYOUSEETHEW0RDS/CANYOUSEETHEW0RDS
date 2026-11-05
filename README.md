@@ -106,7 +106,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <td width="500" align="center">
 
 ⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
-***𝓣hank you for visiting my profile.** <img src="./skull.gif" width="40">  
+***𝓣hank you for visiting my profile.*** <img src="./skull.gif" width="40">  
 ***𝓣ake care yourself.<3***  
 ⋆｡‧˚———˚‧｡⋆
 
