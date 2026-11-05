@@ -8,42 +8,19 @@
 <td width="520" align="center">
 
 # <img src="./FLOWER.gif" width="40"> 𝐇𝐞𝐥𝐥𝐨? 𝐂𝐚𝐧 𝐲𝐨𝐮 𝐡𝐞𝐚𝐫 𝐦𝐞?
-# <img src="./2nd.jpg" width="200">
+
+<br>
+
+<img src="./2nd.jpg" width="220">
+<img src="./silly2.gif" width="220">
+
+<br>
+
 ***⋆｡‧˚ʚ♡ɞ˚‧｡⋆***
 
 </td>
 <td width="150" align="center">
 <img src="./SEE-THE-RAIN-WORDS.png" width="140">
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="150" align="center" valign="top">
-<img src="./ADORABLE.jpg" width="140">
-<br>
-<img src="./ADORABLE.jpg" width="140">
-<br>
-<img src="./ADORABLE.jpg" width="140">
-</td>
-<td width="520" align="center">
-<img src="./skull.gif" width="80">
-
-**𝓗owdy!**  
-**𝓟lease be patient! 𝓘’m socially awkward.**
-
-<img src="./silly2.gif" width="340">
-
-</td>
-<td width="150" align="center" valign="top">
-<img src="./ADORABLE.jpg" width="140">
-<br>
-<img src="./ADORABLE.jpg" width="140">
-<br>
-<img src="./ADORABLE.jpg" width="140">
 </td>
 </tr>
 </table>
@@ -98,6 +75,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <br><br>
 <br><br>
+
 <img src="./TUMBLR-GIRL.jpg" width="460">
 
 </td>
@@ -153,6 +131,10 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <img src="./SEE-THE-RAIN-WORDS.png" width="140">
 </td>
 <td width="520" align="center">
+
+<img src="./skull.gif" width="70">
+
+<br>
 
 ⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
 ***𝓣hank you for visiting my profile.  
