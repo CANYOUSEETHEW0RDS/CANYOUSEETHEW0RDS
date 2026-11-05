@@ -98,7 +98,6 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <br><br>
 <br><br>
-
 <img src="./TUMBLR-GIRL.jpg" width="460">
 
 </td>
