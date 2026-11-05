@@ -73,8 +73,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <img src="./SPLATOON.png" width="360">
 
-<br><br>
-<br><br>
+<br>
 
 <img src="./TUMBLR-GIRL.jpg" width="460">
 
