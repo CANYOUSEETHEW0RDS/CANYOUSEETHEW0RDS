@@ -131,9 +131,9 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 </td>
 <td width="500" align="center">
 
-### <img src="./skull.gif" width="45"> ⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
-***𝓣hank you for visiting my profile.  
-𝓣ake care yourself.<3***  
+⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
+***𝓣hank you for visiting my profile.** <img src="./skull.gif" width="40">  
+***𝓣ake care yourself.<3***  
 ⋆｡‧˚———˚‧｡⋆
 
 <br>
