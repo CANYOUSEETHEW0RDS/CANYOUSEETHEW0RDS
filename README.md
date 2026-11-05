@@ -108,13 +108,31 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <img src="./ADORABLE.jpg" width="160">
 <br>
 <img src="./ADORABLE.jpg" width="160">
+<br>
+<img src="./ADORABLE.jpg" width="160">
+<br>
+<img src="./ADORABLE.jpg" width="160">
 </td>
 <td width="500" align="center">
 
 <img src="./CUTE.gif" width="280">
 
+<br><br>
+
+<img src="./PINK TUMBLR.gif" width="320">
+
+<br><br>
+
+# Link, link.
+
+*(link for my tumblr)*
+
 </td>
 <td width="170" align="center" valign="top">
+<img src="./ADORABLE.jpg" width="160">
+<br>
+<img src="./ADORABLE.jpg" width="160">
+<br>
 <img src="./ADORABLE.jpg" width="160">
 <br>
 <img src="./ADORABLE.jpg" width="160">
@@ -127,12 +145,12 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <table>
 <tr>
 <td width="170" align="center">
-<img src="./SEE-THE-RAIN-WORDS.png" width="260">
+<img src="./SEE-THE-RAIN-WORDS.png" width="160">
 </td>
 <td width="500" align="center">
 
 ⋆｡‧˚ʚ♡ɞ˚‧｡⋆  
-***𝓣hank you for visiting my profile.** <img src="./skull.gif" width="50">  
+***𝓣hank you for visiting my profile.** <img src="./skull.gif" width="40">  
 ***𝓣ake care yourself.<3***  
 ⋆｡‧˚———˚‧｡⋆
 
@@ -142,7 +160,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 </td>
 <td width="170" align="center">
-<img src="./SEE-THE-RAIN-WORDS.png" width="260">
+<img src="./SEE-THE-RAIN-WORDS.png" width="160">
 </td>
 </tr>
 </table>
