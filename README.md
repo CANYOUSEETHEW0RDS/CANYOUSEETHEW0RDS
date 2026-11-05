@@ -39,9 +39,7 @@
 
 **𝓗owdy!**  
 **𝓟lease be patient! 𝓘’m socially awkward.**
-
 <br><br>
-
 <img src="./silly2.gif" width="340">
 
 <br><br>
