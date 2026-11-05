@@ -18,7 +18,7 @@
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <table>
 <tr>
@@ -28,19 +28,13 @@
 <img src="./ADORABLE.jpg" width="140">
 <br>
 <img src="./ADORABLE.jpg" width="140">
-<br>
-<img src="./ADORABLE.jpg" width="140">
 </td>
 <td width="520" align="center">
 
-<img src="./skull.gif" width="90">
-
-<br>
+<img src="./skull.gif" width="80">
 
 **𝓗owdy!**  
 **𝓟lease be patient! 𝓘’m socially awkward.**
-
-<br>
 
 <img src="./silly2.gif" width="340">
 
@@ -51,13 +45,11 @@
 <img src="./ADORABLE.jpg" width="140">
 <br>
 <img src="./ADORABLE.jpg" width="140">
-<br>
-<img src="./ADORABLE.jpg" width="140">
 </td>
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <table>
 <tr>
