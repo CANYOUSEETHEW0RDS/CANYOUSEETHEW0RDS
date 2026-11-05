@@ -49,7 +49,7 @@
 ### **𝓡emember.** 
 When rain paints the world with soft regret, do not linger. Do not drown in the echoes of what was; steer towards the dawn.
 
-### 𝓨ou can do it! <img src="./CUTE.gif" width="39">
+### 𝓨ou can do it! <img src="./CUTE.gif" width="20">
 
 <br>
 
