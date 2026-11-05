@@ -127,7 +127,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 <table>
 <tr>
 <td width="170" align="center">
-<img src="./SEE-THE-RAIN-WORDS.png" width="160">
+<img src="./SEE-THE-RAIN-WORDS.png" width="260">
 </td>
 <td width="500" align="center">
 
@@ -142,7 +142,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 </td>
 <td width="170" align="center">
-<img src="./SEE-THE-RAIN-WORDS.png" width="160">
+<img src="./SEE-THE-RAIN-WORDS.png" width="260">
 </td>
 </tr>
 </table>
