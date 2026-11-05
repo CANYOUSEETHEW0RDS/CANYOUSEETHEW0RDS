@@ -138,7 +138,7 @@ When rain paints the world with soft regret, do not linger. Do not drown in the 
 
 <br>
 
-<img src="./silly.gif" width="280">
+<img src="./silly.gif" width="380">
 
 </td>
 <td width="170" align="center">
